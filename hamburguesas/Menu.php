@@ -69,37 +69,37 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
           <div class="card h-100">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="./img/Pro.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title">Hamburguesa con queso</h5>
+              <p class="card-text">Una hamburguesa de queso, regresco y unas papas chicas.</p>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Agregar</a>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card h-100">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="./img/2.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              <h5 class="card-title">Duo burger</h5>
+              <p class="card-text">Dos hamburguesas sencillas, dos refrescos y unas papas medianas.</p>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Agregar</a>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card h-100">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="./img/doble.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <h5 class="card-title">Hamburguesa Doble carne</h5>
+              <p class="card-text">Hamburguesa doble carne, refresco y papas chicas.</p>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Agregar</a>
             </div>
           </div>
         </div>
@@ -107,37 +107,37 @@
       <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
           <div class="card h-100">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="./img/papas.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title">Refresco y papas</h5>
+              <p class="card-text">papas medianas y un refresco grande.</p>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Agregar</a>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card h-100">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="./img/arrachera.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+              <h5 class="card-title">Hamburguesa de arrachera</h5>
+              <p class="card-text">Hamburguesa de arrachera, refresco y papas chicas.</p>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Agregar</a>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card h-100">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="./img/pollo.png" class="card-img-top" alt="...">
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+              <h5 class="card-title">Hamburguesa de pollo</h5>
+              <p class="card-text">Hamburguesa de pollo, refresco y papas chicas.</p>
             </div>
             <div class="card-footer">
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+                <a href="#" class="btn btn-primary">Agregar</a>
             </div>
           </div>
         </div>
